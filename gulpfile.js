@@ -13,7 +13,7 @@ var AUTOPREFIXER_BROWSERS = [
 
 var src = {
   'css': ['src/css/**/*.css', '!src/css/**/_*.css'],
-  'cssWatch': 'src/css/**/*.css',
+  'cssWatch': 'src/css/**/*.css'
 }
 
 var dest = {
